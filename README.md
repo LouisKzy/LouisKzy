@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently retrained at The Hacking Project
-- 🎆 I’am currently intern at WeCheers
+- 🎆 I’m currently intern at WeCheers
 - 🌱 I’m currently learning React.js & ReactNative
 - 📖 I’ll certainly learn at MyDigitalSchool next year
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.rb` `.jsx`
